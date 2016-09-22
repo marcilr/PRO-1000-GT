@@ -1,0 +1,55 @@
+PRO-1000-GT.txt
+Created Thu Feb 11 08:47:49 AKST 2010)
+by Raymond E. Marcil
+
+
+The Intel PRO/1000 GT Quad Port adapter supports both PCI-X 1.0 and 
+PCI 2.2 buses.  Sweet.
+
+make:  Intel
+model: PRO/1000 GT Quad Port Server Adapter
+note:  Auto-sensing, self-configuring 10/100/1000 Mbps 
+price: $401.99 (newegg Thu Feb 11, 2010)
+
+
+Intel PWLA8494GTBLK 10/ 100/ 1000Mbps PCI-X PRO/1000 GT Quad Port Server Adapter - OEM
+* Connectors: 4x RJ45
+* BUS: 32/64-bit PCI/PCI-X
+* On-board Memory: 256 KB
+* Wake On LAN: Yes
+* Dimensions: 6.6" x 4.2"
+* Temperature: 0C ~ 55C
+* Humidity: 85% at +55C
+* Windows Vista: Works with Windows Vista
+* Model #: PWLA8494GTBLK
+* Item #: N82E16833106029
+price: $401.99 (newegg.com Feb 11, 2010)
+
+
+features
+========
+Support for most NOSs
+  Enables high-density networking in server appliances and embedded 
+  applications
+
+Intel SingleDriver technology
+  Common driver suite for Gigabit Ethernet reduces installation complexity
+
+Backward compatibility with previous generations of Intel PRO/1000 Network 
+Adapters.
+  Reduces support costs and simplifies installation and maintenance
+
+Supports 3.3 volt 64-bit PCI-X* 1.0 or PCI 2.2 buses
+  This flexible, auto-sensing adapter works in a variety of bus types
+
+Remote management support (WfM, RIS, SNMP/DMI)
+  Reduces support costs with remote management based on industry-wide standards
+
+IEEE 802.3ab* compatibility
+  Supports Gigabit Ethernet industry-wide networking standard
+
+Auto-sensing, self-configuring 10/100/1,000-Mbps performance
+  Enables migration to faster networks easily and inexpensively adapter will automatically 
+  sense when the network is able to support a faster speed, and self-configure to save IT
+  staff time, money, and server downtime.
+
